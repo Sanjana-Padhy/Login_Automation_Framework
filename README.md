@@ -42,7 +42,7 @@ LoginAutomationFramework
 
 ---
 
-Test Scenarios Implemented
+Test Scenarios Implemented:
 
 1. Valid Login Test
 * Open Login Page
@@ -52,11 +52,13 @@ Test Scenarios Implemented
 * Verify successful login
 
 
+
 2. Invalid Password Test
 * Enter valid username
 * Enter incorrect password
 * Click Login
 * Verify error message
+
 
 
 3. Invalid Username Test
@@ -81,7 +83,10 @@ Through this project, I gained hands-on experience with:
 
 
 
-Author:  Sanjana Padhy
+
+Author: 
+
+Sanjana Padhy
 
 GitHub: https://github.com/Sanjana-Padhy
 
